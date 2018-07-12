@@ -125,7 +125,3 @@
 }).call(this);
 
 
-Ajouter un commentaireRéduire 
-Zone de message
-
-Envoyer un message à @Frantz Salobir
